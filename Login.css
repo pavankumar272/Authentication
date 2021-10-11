@@ -1,0 +1,35 @@
+#commit{
+    background-color: rgb(39, 38, 38);
+    width: 450px;
+    height: 500px;
+border-radius: 20px;
+}
+#in{
+    width: 400px;
+    border-color: rgb(17, 82, 17);
+    border-radius: 20px;
+    background: none;
+    text-align: center;
+}
+#label{
+    text-align: center;
+}
+#option{
+   margin-left: 120px;
+ width: 200px;
+    border-color: rgb(57, 133, 21);
+    color: darkgoldenrod;
+    border-radius: 20px;
+   
+}
+p{
+    text-align: center;
+}
+#option2{
+    margin-left: 120px;
+  width: 200px;
+     border-color: rgb(57, 133, 21);
+     color: darkgoldenrod;
+     border-radius: 20px;
+    
+ }

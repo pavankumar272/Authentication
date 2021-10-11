@@ -1,0 +1,49 @@
+*{
+    font-family: 'Reem Kufi', sans-serif;
+ }
+#form{
+    width: 400px;
+    height: 410px;
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    
+}
+#form input{
+    width: 380px;
+   
+ border-radius: 20px;
+   
+   border-color: bisque;
+   color: white;
+}
+#form input:hover{
+border-color: rgb(12, 136, 43);
+}
+#com{
+  justify-content: center;
+    align-items: center;
+    width: 400px;
+  
+    
+}
+#sam{
+    border: 2px blue;
+    background-color: rgb(189, 165, 33);
+    color: brown;
+    box-shadow: 0px 0px 9px;
+    transition: 0.25s;
+    width: 170px;
+    height: 40px;
+}
+#sam:hover{
+    background-color: rgb(189, 192, 31);
+    color: white;
+}
+#annar{
+    text-decoration: none;
+
+}
+#annar span:hover{
+ color: rgb(255, 255, 255);
+}
